@@ -26,7 +26,7 @@
 
 总结起来就是如下的一个学习圆环：
 
-[![](http://img.blog.csdn.net/20170923173632436)](http://img.blog.csdn.net/20170923173632436)
+[![](http://img.blog.csdn.net/20170923173632436)](http://img.blog.csdn.net/20170923173632436 =200x180)
 
 
 
