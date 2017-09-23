@@ -25,7 +25,9 @@
 3. 这东西到底是怎么运作的，为什么是这样
 
 总结起来就是如下的一个学习圆环：
-<img src="http://img.blog.csdn.net/20170923173632436" width="50%" height="50%">
+
+
+<img src="http://img.blog.csdn.net/20170923173632436" width="30%" height="30%">
 
 
 
