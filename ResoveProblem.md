@@ -95,8 +95,8 @@
 ### 问题主体：树型结构
 3.1.1中的问题是一个简单的问题链条。但是如果问题稍微复杂点，形成的就会是一个树形结构。还以3.1.1的例子为准，假设web界面调用的url在后端是多层调用，则变成了如下结构：    
  >用户访问终端 -> 用户网络&运营商 -> cdn -> 流量入口 -> 服务端 -> 依赖服务1   
- >                                                                           -> 依赖服务2   
- >                                                                           -> 依赖服务3     
+ >&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;-> 依赖服务2   
+ >&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;-> 依赖服务3     
                                                              
 这种情况下，就需要依次排查是哪个依赖服务发生了故障。
 
