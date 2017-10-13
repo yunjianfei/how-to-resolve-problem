@@ -55,7 +55,7 @@
 
 看看下面这张图，在联想一下他们的产品设计(尤其是苹果的)，就能很形象的理解这句话。
 
-<img src="http://img-hxy021.didistatic.com/static/km/do1_7DMBG6yX89magnYitW4V" width="50%" height="50%">
+<img src="http://img.blog.csdn.net/20171013144227268?watermark/2/text/aHR0cDovL2Jsb2cuY3Nkbi5uZXQveXVuX2ppYW5mZWk=/font/5a6L5L2T/fontsize/400/fill/I0JBQkFCMA==/dissolve/70/gravity/Center" width="50%" height="50%">
 
 因此，软件架构和组织架构是息息相关的，想要什么样的软件架构，就必须先有对应的组织架构。现在很火的微服务、devops之类的都符合康威定律。
 
